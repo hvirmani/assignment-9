@@ -1,0 +1,35 @@
+
+.form-inline{
+  gap: 10px;
+  justify-content: center;
+  margin: 5vh auto;
+}
+
+.form-control{
+  min-width: 40vh;
+}
+
+form{
+  margin: auto;
+  text-align: center;;
+}
+ol{
+  padding-left:20px ;
+}
+img{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin: auto!important;
+}
+.recipe{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.recipe h2{
+  text-align: center;
+}
+.col-sm-6{
+  margin-bottom: 2rem;
+}
